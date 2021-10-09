@@ -1,0 +1,6 @@
+a=int(input("Enter X**2 term : "))
+b=int(input("Enter X term : "))
+c=int(input("Enter const term : "))
+root1 = (-b+(b**2-4*a*c)**0.5)/(2*a)
+root2 = (-b-(b**2-4*a*c)**0.5)/(2*a)
+print(f"Roots of an equation are : {root1} {root2}")

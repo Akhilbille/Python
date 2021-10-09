@@ -1,0 +1,35 @@
+				web development
+1.html
+2.css- add styles
+3.java script-to add motions to web pages
+3.jquery
+4.angular
+5.reactjs
+6.nodejs-back end coding
+7.mean stack application
+8.mern stack application
+		                   	1.HTML
+*It is a mark up language for creating web page .It stands for hyper text mark upp language.
+*it contains elements they are building blocks of html and represented by tags
+*html structure is also called as boiler plate
+**Html : It starts with html tag which says it as a html page
+**Head tag :Next it contains head tag it contains links for styling sheet and to represent it fonts and also javascript we uses 
+And it also has a title which will present at the top of the browser we opens
+And the head tag is like a brain it wont be visible it works more
+**Body tag : it contains h tags and p tags which are visible to users 
+***note : about sublime  : 
+		shortcut keys
+1.(ctrl+shift+d)
+	when we want a duplicate line we cannot use copy paste ,firsr keep cursor on that line and press 
+
+2.(ctrl+left click)-line by line
+   (shift+right click  and drag it)
+we can change or update multpile lines ata time(use ctrl and select the lines u  want to edit  and press escape to come out of it)
+3.ctrl+shift+ up arrow) or(ctrl+shift+down arrow )-to change lines postion
+4.(ctrl+d)-it is used select multiple words at a time and to update them 
+5.(ctrl+shift+k)-place corsor on a line and press above mentioned to delete a row
+6.(ctrl+k+k)-it is used to delete a line upto cursor 
+7.(ctrl+forwardslash)-to make a line into a comment
+8.(alt+shift+number of windows to be opened)
+eg:alt+shift+2-(opens two windows)
+9.(new view into file )-it is used to do tasks at different places

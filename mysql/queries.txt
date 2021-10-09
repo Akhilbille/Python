@@ -1,0 +1,49 @@
+1.select * from employee;
+2.select * form clients;
+3. select * from employee order by salary;
+4. select sex,first_name,last_name from employee order by  sex;
+5. select * from employee where(emp_id  between 101 and 105);
+6. select first_name,last_name from employee;
+7. select sex from employee;
+8. select * from employee where sex like("m%");
+9. select * from employee where branch_id like "2%";
+10.select emp_id,first_name,last_name  from employee where birth_date>1969;
+11.select * from employee where branch_id like "2%" and sex like "f%";
+12.select * from employee where birth_date>1969 and sex like "f%" or salary>80000;
+13. select * from employee where (birth_date between "1970-00-00" and "1975-00-00");
+14.select * from employee where first_name like "jim"or"michael"or"johnny"or"david";
+
+
+
+
+Please write Queries for the following
+-- Find all employees
+-- Find all clients
+-- Find all employees ordered by salary
+-- Find all employees ordered by sex then name
+-- Find the first 5 employees in the table
+-- Find the first and last names of all employees
+-- Find the firstname and lastname  of all employees
+-- Find out all the different genders
+-- Find all male employees
+-- Find all employees at branch 2
+-- Find all employee's id's and names who were born after 1969
+-- Find all female employees at branch 2
+-- Find all employees who are female & born after 1969 or who make over 80000
+-- Find all employees born between 1970 and 1975
+-- Find all employees named Jim, Michael, Johnny or David
+
+1.select * from employee;
+2.select * form clients;
+3. select * from employee order by salary;
+4. select sex,first_name,last_name from employee order by  sex;
+5. select * from employee where(emp_id  between 101 and 105);
+6. select first_name,last_name from employee;
+7. select sex from employee;
+8. select * from employee where sex like("m%");
+9. select * from employee where branch_id like "2%";
+10.select emp_id,first_name,last_name  from employee where birth_date>1969;
+11.select * from employee where branch_id like "2%" and sex like "f%";
+12.select * from employee where birth_date>1969 and sex like "f%" or salary>80000;
+13. select * from employee where (birth_date between "1970-00-00" and "1975-00-00");
+14.select * from employee where first_name like "jim"or"michael"or"johnny"or"david";

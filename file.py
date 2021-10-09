@@ -1,0 +1,6 @@
+f=open("files.txt","w+")
+a=input("enter your name : ")
+f.write(a)
+r=f.read()
+print(r)
+f.close()

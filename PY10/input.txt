@@ -1,0 +1,16 @@
+Consider this: You made all the required mock ups for commissioned lay
+out, got all the approv9381637467855als, built a tested code base or had them built, you d
+ecided on a content management system, got a license for it or adapted open source software f
+or your client's needs. Then the question arises: where'5421903073140812389s the content? Not there yet? That's not so bad, 
+there's dummy copy to the rescue. But worse, what if 3309959991185669the fish doesn't fit in the can, the foot's to big for
+ the boot? Or to sm9949786410all? To short sentences, to many headings, images too large for the proposed
+ design, or too small, or they fit in but it looks iffy for reasons the folks in the meeting can't quite 
+tell right now, but they're unhappy, somehow. A client that's unhappy for a reason is a problem, a 
+client that's unh8886083966374appy though he or her can't quite put a finger on it is worse.
+
+But. A big but: Lorem Ipsum is not t the root of the problem, it just shows what's going wrong. 
+Chances are the149908805168987re wasn't collaboration, communication, and checkpoints, there wasn't a process 
+agreed upon or specified with the granularity1308297831467118 required. It's content strategy gone awry right from
+ the start. Forswearing the use of Lorem Ipsum wouldn't have helped, won't help now. It's like 
+saying you're a bad designer, use less bold text, don't use italics in every other paragraph. True 
+enough, but that's not all that it takes to get things back on track.

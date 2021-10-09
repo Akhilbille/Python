@@ -1,0 +1,10 @@
+mileage=12
+amount_per_litre=40
+distance_one_way=190
+per_head_cost=0
+divisible_by_five=False
+distance_two_way=distance_one_way*2
+total_no_of_litres=distance_two_way/mileage
+total_amount=total_no_of_litres*amount_per_litre
+per_head_cost=total_amount/4
+print(per_head_cost)

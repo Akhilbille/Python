@@ -1,0 +1,3 @@
+ctrl+alt+t = for snippets in python
+ctrl+d =  for getting duplicate values
+We can use todo in comments to  find comments in program 

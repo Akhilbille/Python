@@ -1,0 +1,5 @@
+f=open('data.txt','a+')
+f.seek(10,0)
+str=f.read()
+print(str)
+f.close(())    

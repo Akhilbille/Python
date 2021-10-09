@@ -1,0 +1,1 @@
+print(list(range(int(input("enter a value : " )),int(input("enter b value : " )),2)))

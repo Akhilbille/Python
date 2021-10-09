@@ -1,0 +1,6 @@
+string=input("Enter a string : ")
+print("methods in a string")
+print(string.upper())
+print(string.lower())
+print(string.title())
+print(string.swapcase())
